@@ -18,4 +18,4 @@ Usage
 `npm start`
 
 * react
-* ödev
+* homework
