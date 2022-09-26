@@ -17,5 +17,3 @@ Usage
 
 `npm start`
 
-* react
-* homework
